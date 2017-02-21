@@ -1,2 +1,2 @@
 def tweet():
-    print "Curulik Curulik"
+    return "Curulik Curulik"
